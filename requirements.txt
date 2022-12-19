@@ -1,0 +1,4 @@
+google-cloud-vision==3.2.0
+google-cloud-bigquery==3.4.1
+google-cloud-storage==2.7.0
+beautifulsoup4==4.11.1
